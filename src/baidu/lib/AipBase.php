@@ -15,9 +15,9 @@
 * the License.
 */
 
-namespace Yekern\LaravelBaiduAipV2\baidu\lib;
+namespace ZhangyuCq\LaravelBaiduAip\baidu\lib;
 
-use Yekern\LaravelBaiduAipV2\baidu\lib\AipHttpClient;
+use ZhangyuCq\LaravelBaiduAip\baidu\lib\AipHttpClient;
 
 //require_once 'AipHttpClient.php';
 require_once 'AipBCEUtil.php';

@@ -1,5 +1,5 @@
 <?php
-namespace Yekern\LaravelBaiduAipV2\baidu\lib;
+namespace ZhangyuCq\LaravelBaiduAip\baidu\lib;
 /*
 * Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
 *

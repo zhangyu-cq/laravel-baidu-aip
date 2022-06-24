@@ -1,5 +1,5 @@
 <?php
-namespace Yekern\LaravelBaiduAipV2\baidu;
+namespace ZhangyuCq\LaravelBaiduAip\baidu;
 /*
 * Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
 *
@@ -18,7 +18,7 @@ namespace Yekern\LaravelBaiduAipV2\baidu;
 
 //require_once 'lib/AipBase.php';
 
-use Yekern\LaravelBaiduAipV2\baidu\lib\AipBase;
+use ZhangyuCq\LaravelBaiduAip\baidu\lib\AipBase;
 
 class AipBodyAnalysis extends AipBase {
 

@@ -1,5 +1,5 @@
 <?php
-namespace Yekern\LaravelBaiduAipV2\facade;
+namespace ZhangyuCq\LaravelBaiduAip\facade;
 
 use Illuminate\Support\Facades\Facade;
 

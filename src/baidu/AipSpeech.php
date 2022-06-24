@@ -15,9 +15,9 @@
 * the License.
 */
 
-namespace Yekern\LaravelBaiduAipV2\baidu;
+namespace ZhangyuCq\LaravelBaiduAip\baidu;
 
-use Yekern\LaravelBaiduAipV2\baidu\lib\AipBase;
+use ZhangyuCq\LaravelBaiduAip\baidu\lib\AipBase;
 
 //require_once 'lib/AipBase.php';
 
