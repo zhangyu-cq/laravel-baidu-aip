@@ -1,0 +1,27 @@
+{
+    "name": "zhangyu-cq/laravel-baidu-aip",
+    "description": "Laravel版本根据百度SDK封装",
+    "keywords": ["baiduaip","asr","ocr"],
+    "autoload": {
+        "psr-4": {
+            "ZhangyuCq\\LaravelBaiduAip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhangyu",
+            "email": "812282694@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\ZhangyuCq\\LaravelBaiduAip\\BaiduAipServiceProvider"
+            ]
+        }
+    }
+}
