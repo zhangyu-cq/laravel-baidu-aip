@@ -78,7 +78,7 @@ class AipHttpClient{
         $headers = array_merge($this->headers, $this->buildHeaders($headers));
         $ch = curl_init();
 //        $this->prepare($ch);
-        var_dump($url);
+//        var_dump($url);
         curl_setopt($ch, CURLOPT_URL, $url);
         curl_setopt($ch, CURLOPT_POST, 1);
         curl_setopt($ch, CURLOPT_HEADER, false);
